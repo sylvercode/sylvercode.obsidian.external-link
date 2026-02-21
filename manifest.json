@@ -1,7 +1,7 @@
 {
 	"id": "sylvercode-external-link",
 	"name": "Sylvercode External Link",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"minAppVersion": "0.15.0",
 	"description": "Get obsidian link of block page",
 	"author": "Sylvercode",
